@@ -8,7 +8,7 @@ This program was made public for those who want to see what a Level 0, perfuncto
 
 I recommend using a process simulator or writing a program that uses a much more accurate model (like the Maxwell-Stefan equation ) for membrane separation applications.
 
-Now that I think about it, it's pretty pompous of me to assume anyone will even check out my GitHub ;)
+Now that I think about it, it's pretty pretentious of me to assume anyone will even check out my GitHub ;)
 
 PROJECT DESCRIPTION:
 The purpose of this project was to design a separation process that purified a gas fuel stream containing methane, carbon dioxide,
