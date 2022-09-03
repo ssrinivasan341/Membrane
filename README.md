@@ -2,7 +2,7 @@
 
 DISCLAIMER!!!!!!!!!!!!!
 
-Do not use this code for practical situations! This MATLAB program is an oversimplified membrane design for an undergraduate project. A simple ODE solver and most design parameters were used to calculate the exit permeate and retentate concentrations.
+Do not use this code for practical situations! This MATLAB program is an oversimplified membrane design for an undergraduate project. A simple ODE solver and very basic design parameters were used to calculate the exit permeate and retentate concentrations.
 This program was made public for those who want to see what a Level 0, perfunctory membrane design would look like :)
 
 
